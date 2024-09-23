@@ -3,7 +3,7 @@ import pandas as pd
 
 # Load the dataset
 file_path = 'dataset.csv'  # Ensure this CSV file is in the same folder as the Python script
-data = pd.read_csv("C:/Users/User/Desktop/dataset.csv")
+data = pd.read_csv("dataset.csv")
 
 
 # Set the title of the app
